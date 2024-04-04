@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming proficient at coding.
 - 🌱 I’m currently learning React/Node
 - 💞️ I’m looking to collaborate on any projects that could help me better my coding and team working skills.
-- 📫 How to reach me by email at adieterkaupp@gmail.com or by phone at the number +1(321)252-2417 (US)
+- 📫 You can reach me by email at adieterkaupp@gmail.com or by phone at the number +1(321)252-2417 (US)
 
 
 <!---
