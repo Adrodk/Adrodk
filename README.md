@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Albert Rodriguez.
-- 👀 I’m interested in becoming proficient at coding.
-- 🌱 I’m currently learning React/Node
-- 💞️ I’m looking to collaborate on any projects that could help me better my coding and team working skills.
-- 📫 You can reach me by email at adieterkaupp@gmail.com or by phone at the number +1(305)300-3080 (US)
 
+Hi, I'm Albert!  
 
-<!---
-Adrodk/Adrodk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Aspiring software developer with a passion for technology and a strong willingness to learn.
+  Looking to collaborate on any projects that could help me better my code.
+
+  
